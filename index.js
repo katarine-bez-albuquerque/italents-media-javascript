@@ -131,4 +131,9 @@ function resultados() {
     contabilizarFaltas();
 }
 
-resultados();
+try {
+    resultados();
+}
+catch(error) {
+    console.log(`\n${error.message}\n`);
+}

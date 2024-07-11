@@ -2,7 +2,7 @@
 ## Projeto Back-End com JavaScript
 #### Por:  iTalents
 
-![IMC](./banner.png "Calcular Média do Aluno")
+![Média](./banner.png "Calcular Média do Aluno")
 
 ### Sobre o Projeto
 
@@ -29,6 +29,13 @@ The JavaScript application calculates a student's average using functions to org
 
 ``
 npm install
+``
+
+### Executar Programa
+##### (Run Program)
+
+``
+node index.js
 ``
 
 ### Autor (Author)
